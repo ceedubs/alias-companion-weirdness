@@ -2,6 +2,8 @@
 
 This project demonstrates a weird Scala bug.
 
+Oops, as it turns out, this is already filed as [SI-7139](https://issues.scala-lang.org/browse/SI-7139).
+
 ## What's here
 
 The `foo` package object declares two type aliases:
