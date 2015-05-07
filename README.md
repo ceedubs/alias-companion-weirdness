@@ -1,4 +1,8 @@
+# Weirdness
+
 This project demonstrates a weird Scala bug.
+
+## What's here
 
 The `foo` package object declares two type aliases:
 
@@ -24,7 +28,11 @@ object Foo {
 }
 ```
 
-Nothing particularly exciting. It works in the REPL just like you would expect:
+Nothing particularly exciting.
+
+## To the REPL
+
+It works in the REPL just like you would expect:
 
 ```scala
 scala> import ceedubs.foo.Foo
